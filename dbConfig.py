@@ -1,0 +1,4 @@
+USER = ''
+PWD = ''
+HOST = ''
+DATABASE = ''
